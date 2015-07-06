@@ -30,7 +30,7 @@ void solve()
 {
 	while(cin>>N>>M && M!=0 && N!=0)
 	{
-		res=1;
+		res=0;
 		for(int i=0;i<M;i++)
 			for(int j=0;j<N;j++)
 			{
